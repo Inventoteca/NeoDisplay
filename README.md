@@ -1,3 +1,14 @@
+# NeoDisplay
+This repository is a colection of displays made with NeoDigitos.  
+The library for Arduino is [here](https://github.com/Inventoteca/NeoDigito)
+
+## NeoClock - Internet Clock, Weather & IoT Panel
+NeoClock is a clock connected to the Internet, that in addition to show time and date,
+can be configured to show other data, as weather and messages sent from a remote
+device whithout extra hardware.
+
+It's build with 4 NeoDigitos.
+
 Display hecho de 4 displays de 7 segmentos basados en NeoPixel
 ![Algoaca](display.jpg?raw=true "Thumbnail")
 
