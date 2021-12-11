@@ -9,9 +9,9 @@ device whithout extra hardware.
 
 It's build with 4 NeoDigitos.  
 
-<img src="display.jpg" width="512">
+<img src="NeoDigito/display.jpg" width="512">
 
 ## Single Digit
 This display uses one single digit  
 
-<img src="display.jpg" width="512">
+<img src="Single_digit/pieces.jpg" width="512">
