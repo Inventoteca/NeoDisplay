@@ -10,10 +10,7 @@ device whithout extra hardware.
 It's build with 4 NeoDigitos.
 
 Display hecho de 4 displays de 7 segmentos basados en NeoPixel
-![foto de NeoClock con NeoDigitos a un lado](display.jpg)
-![foto de NeoClock con NeoDigitos a un lado](display.jpg | width=100)
-![foto de NeoClock con NeoDigitos a un lado](display.jpg){:height="240px" width="240px"}
-<img src="display.jpg" width="100" height="100">
+<img src="display.jpg" width="320">
 
 Archivos de esquematico y placa en Eagle para el diseño de pcb,
 para poder alimentar y reprogramar ESP 01 sin necesidad de extraer la tapa.
