@@ -9,7 +9,7 @@ device whithout extra hardware.
 
 It's build with 4 NeoDigitos.  
 
-<img src="NeoClock/display.jpg" width="512">
+<img src="NeoClock/pics/display.jpg" width="512">
 
 ## Single Digit
 This display uses one single digit  
